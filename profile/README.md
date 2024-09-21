@@ -4,6 +4,8 @@
 
 Miro - https://miro.com/app/board/uXjVKn3EVk8=/
 
+Change theme for boiler - https://ui.shadcn.com/themes
+
 <!--
 
 **Here are some ideas to get you started:**
